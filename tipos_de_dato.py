@@ -72,7 +72,9 @@ tupla = (1, 2, "dato3", 4, True)
 
 #print (lista , tupla)
 
+#Podemos mostrar un rango con 
 
+tupla[1:3]   #Esto recorre de la posicion 1 a 3
 
 
 
@@ -113,4 +115,6 @@ diccionario = {
 ##Operadores de comparacion 
 #  == || != || > || < || >= || <=
 
+##OPERADORES MATEMATICOS 
+#   +   -   /   //    *    **    %
 

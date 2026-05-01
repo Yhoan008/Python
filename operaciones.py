@@ -23,6 +23,11 @@ esto_tambien_es_false = not True
 
 
 
+#LOS SIGUIENTES METODOS TAMBIEN SE APLICAN A OBJETOS O CLASES
+
+
+
+
 # METODOS DE CADENAS 
 # dir("") : Devuelve los metodos de un elemento
 # len("") : Devuelve la cantidad de caracteres en una cadena
@@ -43,6 +48,10 @@ esto_tambien_es_false = not True
 # .replace("dato_buscado","dato_a_reemplazar") : Remplaza una cadena por otra 
 
 # .split("dato") : Separa la cadena segun el dato que le pasemos, devuelve lista array
+
+# .join() : Devuelve una concatenacion
+
+# .partition() : Particiona la cadena
 
 
 cadena = "Cadena numero uno"

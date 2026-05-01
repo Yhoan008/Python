@@ -1,18 +1,8 @@
 
 
 
-diccionario = {
-    'hola' : "mundo",
-    'tres' : 2
-}
-
-tupla = ("primer dato","dato dos")
-
-lista = [ "Colombia", "Ecuador " ]
 
 
-lista[1] = " tercer dato"
+secuencia = [1,2,4,5,6,7,8,]
 
-diccionario.hola : "segundo hola"
-
-print (lista)
+print(secuencia[1:4])
